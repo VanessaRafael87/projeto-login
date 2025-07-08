@@ -29,6 +29,11 @@ Grandes telas: acima de 1200px
         float: right;
         width: 70%;
     }
+
+    section > div#formulario > p {
+    font-size: 1.2em;
+}
+
 }
 
 @media screen and (min-width: 992px){
@@ -50,14 +55,11 @@ Grandes telas: acima de 1200px
         float: left;
         width: 50%;
     }
-}
 
-div#formulario > p {
-    font-size: 2em;
-}
-
-div#formulario > p {
+    section > div#formulario > p {
     font-size: 1.2em;
+}
+
 }
 
 label {
